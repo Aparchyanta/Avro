@@ -1,0 +1,5 @@
+{"id": 1001, "name": "apar1", "designation": "intern1", "mgrid": 1, "hiredate": "05/19/2015", "salary": 1000.0, "commission": 0.0, "deptid": 101}
+{"id": 1002, "name": "apar2", "designation": "intern2", "mgrid": 2, "hiredate": "05/20/2015", "salary": 1100.0, "commission": 1.0, "deptid": 102}
+{"id": 1003, "name": "apar3", "designation": "intern3", "mgrid": 3, "hiredate": "05/21/2015", "salary": 1200.0, "commission": 2.0, "deptid": 103}
+{"id": 1004, "name": "apar4", "designation": "intern4", "mgrid": 4, "hiredate": "05/22/2015", "salary": 1300.0, "commission": 3.0, "deptid": 104}
+{"id": 1005, "name": "apar5", "designation": "intern5", "mgrid": 5, "hiredate": "05/23/2015", "salary": 1400.0, "commission": 4.0, "deptid": 105}
